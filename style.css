@@ -1,0 +1,70 @@
+body{
+margin:0;
+font-family:'Inter', sans-serif;
+background:#fff;
+color:#2E2E2E;
+}
+
+.container{
+width:90%;
+max-width:1100px;
+margin:auto;
+padding:60px 0;
+}
+
+.hero{
+background:#0A1F44;
+color:white;
+text-align:center;
+}
+
+h1{
+font-family:'Montserrat';
+font-size:48px;
+}
+
+h2{
+font-family:'Montserrat';
+margin-bottom:20px;
+}
+
+.cta{
+background:#1E5EFF;
+color:white;
+padding:15px 30px;
+text-decoration:none;
+display:inline-block;
+margin-top:20px;
+}
+
+.problema ul{
+list-style:none;
+padding:0;
+}
+
+.problema li{
+padding:10px 0;
+border-bottom:1px solid #ddd;
+}
+
+.servicios{
+background:#f5f5f5;
+}
+
+.card{
+background:white;
+padding:20px;
+margin-bottom:20px;
+box-shadow:0 0 10px rgba(0,0,0,0.05);
+}
+
+.cta-section{
+text-align:center;
+background:#0A1F44;
+color:white;
+}
+
+footer{
+text-align:center;
+padding:20px;
+}
